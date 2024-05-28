@@ -1,0 +1,23 @@
+-----Vistas------
+Dashboard
+-----------------
+CRUD
+-Crud producto
+-Crud marcas
+-Crud proveeores
+-Crud aromas
+-Crud cliente
+-----------------
+Secciones
+-Caja
+-Perfil de usuario
+-Perfil de tienda
+-Entradas
+-Salidas/Facturacion
+-Stock
+-----------------
+Informes
+-Venta
+-Compra
+-Venta por producto
+-Venta por marca
